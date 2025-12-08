@@ -73,10 +73,13 @@ O projeto contempla todas as etapas fundamentais de um pipeline de Machine Learn
 1️⃣ Clonar o repositório
 git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
 cd SEU_REPOSITORIO
+
 2️⃣ Instalar as dependências
 pip install -r requirements.txt
+
 3️⃣ Executar os notebooks
 jupyter notebook notebooks/
+
 4️⃣ Executar os arquivos na seguinte ordem
 01_EDA.ipynb
 02_Preprocessamento.ipynb
