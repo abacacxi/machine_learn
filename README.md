@@ -17,6 +17,7 @@ Vitor de Lima Silva – 01681385
 📂 Dataset Utilizado
 
 students_performance.csv
+
 🎯 Objetivo do Projeto
 
 Este projeto teve como objetivo desenvolver um modelo de Machine Learning capaz de prever o desempenho acadêmico dos estudantes, utilizando variáveis presentes no dataset students_performance.csv.
@@ -91,6 +92,7 @@ jupyter notebook notebooks/
 Após a avaliação de diferentes algoritmos de regressão, o modelo que apresentou melhor desempenho preditivo foi o Random Forest Regressor, considerando métricas como MAE, RMSE e R².
 
 O modelo final foi salvo utilizando a biblioteca Joblib, permitindo seu carregamento e reutilização para previsões futuras de desempenho acadêmico.
+
 📌 Conclusão
 
 O projeto demonstrou a eficácia do uso de técnicas de Machine Learning para análise e previsão de desempenho acadêmico, evidenciando a importância de fatores educacionais no rendimento dos estudantes. A abordagem adotada segue boas práticas de ciência de dados, garantindo reprodutibilidade, organização do código e confiabilidade nos resultados obtidos.
