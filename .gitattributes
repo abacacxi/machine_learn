@@ -1,0 +1,25 @@
+# Normalizar finais de linha
+* text=auto
+
+# Notebooks Jupyter
+*.ipynb text eol=lf
+
+# Arquivos de dados
+*.csv text eol=lf
+*.tsv text eol=lf
+
+# Scripts Python
+*.py text eol=lf
+
+# Markdown
+*.md text eol=lf
+
+# Arquivos binários (não tentar diff)
+*.pkl binary
+*.joblib binary
+*.model binary
+
+# Imagens
+*.png binary
+*.jpg binary
+*.jpeg binary
